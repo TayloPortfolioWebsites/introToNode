@@ -1,0 +1,18 @@
+{
+  "name": "introtonode",
+  "version": "1.0.0",
+  "description": "introduction to node server",
+  "main": "introToNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https//github.com/TayloPortfolioWebsites/introToNode.git)"
+  },
+  "author": "Tiffany Taylo",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
